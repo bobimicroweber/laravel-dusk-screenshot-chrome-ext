@@ -224,3 +224,11 @@ function ranum(e) {
 function xmlopen(e) {
     httpq4.open("GET", e, !0), httpq4.setRequestHeader("Cache-Control", "no-cache"), httpq4.send()
 }
+
+function createFullPageScreenshotDusk()
+{
+    window.chrome.tabs.query({currentWindow: !0, active: !0}, (function (e) {
+        var n = e[0];
+        window.chrome.tabs.sendMessage(n.id, {from: "full_page"})
+    }));
+}

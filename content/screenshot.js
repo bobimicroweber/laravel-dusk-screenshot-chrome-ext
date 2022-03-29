@@ -43,6 +43,7 @@ function uniqueIdFetch() {
 }
 
 chrome.runtime.onMessage.addListener(function (e, t, o) {
+
     let l = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0), n = "";
     document.getElementsByTagName("body")[0];
     var r = document.body;
