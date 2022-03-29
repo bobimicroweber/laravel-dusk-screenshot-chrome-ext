@@ -1,0 +1,1 @@
+# laravel-dusk-screenshot-chrome-ext
