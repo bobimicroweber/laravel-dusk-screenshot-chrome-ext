@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.441" height="46" viewBox="0 0 119.441 46">
+  <g id="Group_36" data-name="Group 36" transform="translate(-1743.559 -30)">
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(1743.559 30)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="119.441" height="46" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="118.441" height="45" rx="9.5" fill="none"/>
+    </g>
+    <g id="download" transform="translate(1748.219 41)">
+      <g id="Group_17" data-name="Group 17" transform="translate(20.987)">
+        <g id="Group_16" data-name="Group 16">
+          <path id="Path_14" data-name="Path 14" d="M139.334,10.393a.711.711,0,0,0-.648-.418h-2.85V.712A.713.713,0,0,0,135.123,0h-2.85a.713.713,0,0,0-.712.712V9.975h-2.85a.712.712,0,0,0-.536,1.181l4.987,5.7a.711.711,0,0,0,1.072,0l4.987-5.7A.71.71,0,0,0,139.334,10.393Z" transform="translate(-127.998)" fill="#464646"/>
+        </g>
+      </g>
+      <g id="Group_19" data-name="Group 19" transform="translate(16 15.675)">
+        <g id="Group_18" data-name="Group 18">
+          <path id="Path_15" data-name="Path 15" d="M34.525,352v4.275H18.85V352H16v5.7a1.425,1.425,0,0,0,1.425,1.425H35.95a1.424,1.424,0,0,0,1.425-1.425V352Z" transform="translate(-16 -352)" fill="#464646"/>
+        </g>
+      </g>
+    </g>
+    <text id="PDF" transform="translate(1802 60)" fill="#464646" font-size="20" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="0" y="0">PDF</tspan></text>
+  </g>
+</svg>

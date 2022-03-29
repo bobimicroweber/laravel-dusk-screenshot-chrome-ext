@@ -1,0 +1,35 @@
+{
+   "appDesc": {
+      "message": "ekran görüntüsü alma aracımızı kullanarak ekran görüntüsünü alın ve tam sayfayı düzenleyin"
+   },
+   "appTitle": {
+      "message": "Ekran Görüntüsü Alma - Tam Sayfa Yakalama"
+   },
+   "fullButtonTitle": {
+      "message": "Tam sayfa"
+   },
+   "fullpageDesc": {
+      "message": "Otomatik olarak tüm sayfayı ve ekran görüntüsünü tek bir sayfa olarak kaydırır (Not: En alta kadar kaydırın ve ardından ekran görüntüsünü alın)"
+   },
+   "fullpageTitle": {
+      "message": "Tam Sayfa Ekran Görüntüsü"
+   },
+   "specificAreaDesc": {
+      "message": "Mevcut görünür ekranın seçili bir alanının ekran görüntüsünü alın"
+   },
+   "specificAreaTitle": {
+      "message": "Belirli Alan Ekran Görüntüsü"
+   },
+   "specificButtonTitle": {
+      "message": "Belirli Alan"
+   },
+   "visibleAreaDesc": {
+      "message": "Yalnızca sayfanın mevcut görünen kısmının Ekran görüntüsünü alır."
+   },
+   "visibleAreaTitle": {
+      "message": "Görünür Ekran Görüntüsü"
+   },
+   "visibleButtonTitle": {
+      "message": "Görünür Alan"
+   }
+}

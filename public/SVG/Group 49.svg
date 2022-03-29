@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Group_49" data-name="Group 49" transform="translate(-23 -431)">
+    <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(23 431)" fill="#56586d" stroke="#56586d" stroke-width="3">
+      <rect width="29" height="29" rx="10" stroke="none"/>
+      <rect x="1.5" y="1.5" width="26" height="26" rx="8.5" fill="none"/>
+    </g>
+    <g id="grinning" transform="translate(28.56 436.56)">
+      <g id="Group_20" data-name="Group 20">
+        <path id="Path_21" data-name="Path 21" d="M8.44,0a8.44,8.44,0,1,0,8.44,8.44A8.45,8.45,0,0,0,8.44,0ZM11.6,5.275A1.055,1.055,0,1,1,10.55,6.33,1.057,1.057,0,0,1,11.6,5.275Zm-6.33,0A1.055,1.055,0,1,1,4.22,6.33,1.057,1.057,0,0,1,5.275,5.275ZM8.44,14.77a6.344,6.344,0,0,1-6.088-4.6.528.528,0,0,1,.507-.671H14.021a.526.526,0,0,1,.42.209.531.531,0,0,1,.088.462A6.344,6.344,0,0,1,8.44,14.77Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Group_46" data-name="Group 46" transform="translate(-23 -169)">
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(23 169)" fill="#56586d" stroke="#56586d" stroke-width="3">
+      <rect width="29" height="29" rx="10" stroke="none"/>
+      <rect x="1.5" y="1.5" width="26" height="26" rx="8.5" fill="none"/>
+    </g>
+    <g id="wrench_1_" data-name="wrench (1)" transform="translate(28.4 174.699)">
+      <path id="Path_20" data-name="Path 20" d="M17.741,3.5a.524.524,0,0,0-.878-.236L14.99,5.135l-1.854-.371L12.765,2.91l1.874-1.874A.524.524,0,0,0,14.4.159,4.717,4.717,0,0,0,8.753,6.342L.829,13.512A2.52,2.52,0,0,0,2.517,17.9h.065a2.5,2.5,0,0,0,1.806-.828l7.169-7.924A4.717,4.717,0,0,0,17.741,3.5ZM2.592,15.833a.524.524,0,1,1,.524-.524A.524.524,0,0,1,2.592,15.833Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

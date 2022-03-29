@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="Group_40" data-name="Group 40" transform="translate(-848 -30)">
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(848 30)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="46" height="46" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="45" height="45" rx="9.5" fill="none"/>
+    </g>
+    <g id="palm-of-hand" transform="translate(856.538 39.4)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.581" cy="1.581" r="1.581" transform="translate(21.172 4.215)" fill="#464646"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.581" cy="1.581" r="1.581" transform="translate(16.957 1.054)" fill="#464646"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="1.581" cy="1.581" r="1.581" transform="translate(12.742)" fill="#464646"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.581" cy="1.581" r="1.581" transform="translate(8.526 2.108)" fill="#464646"/>
+      <path id="Path_13" data-name="Path 13" d="M21.172,5.715v6.85a.527.527,0,1,1-1.054,0V2.554H16.957v8.958a.527.527,0,1,1-1.054,0V1.5H12.742V11.512a.527.527,0,1,1-1.054,0v-7.9H8.526V16.781l-2.134-2.92a2.057,2.057,0,0,0-2.771-.743,2,2,0,0,0-.5,2.788s3.442,5.209,4.909,7.439,3.843,3.974,8.287,3.974c7.358,0,8.017-5.682,8.017-7.377V5.715Z" transform="translate(0 0.081)" fill="#464646"/>
+    </g>
+  </g>
+</svg>

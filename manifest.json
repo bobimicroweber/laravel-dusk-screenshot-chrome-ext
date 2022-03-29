@@ -1,34 +1,39 @@
 {
    "background": {
-      "persistent": false,
-      "scripts": [ "js/background/index.js" ]
+      "scripts": [ "libs/fabric.min.js", "libs/fabricHistory.js", "background/jspdf.min.js", "background/tempscreenshot.js", "background/innerScreenshot.js", "background/background.js" ]
    },
    "browser_action": {
-      "default_icon": "images/icon-999.png",
-      "default_popup": "popup.html"
+      "default_icon": "ICON 128.png",
+      "default_popup": "index.html",
+      "default_title": "Take a screen shot"
    },
    "commands": {
-      "_execute_browser_action": {
+      "fullPage": {
+         "description": "Take fullpage screenshot",
          "suggested_key": {
-            "default": "Alt+Shift+P"
+            "default": "Alt+P"
          }
       }
    },
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "content/jquery.min.js", "content/innerScreenshotContent.js", "content/screenshot.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'sha256-1kri9uKG6Gd9VbixGzyFE/kaQIHihYFdxFKKhgz3b80'; object-src 'self'",
    "default_locale": "en",
    "description": "__MSG_appDesc__",
    "icons": {
-      "128": "images/icon128-999.png",
-      "16": "images/icon16-999.png",
-      "48": "images/icon48-999.png"
+      "128": "ICON 128.png",
+      "16": "ICON 64.png",
+      "48": "ICON 64.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDb5HGR8sO9jYpfNylXdnXNSzoeHaAdsBOpy5hiYEulgI5SOnkg1Zc93AZIlGUIJBODr3P3PGq4oAoyNr42loQP/IEaCPLLYxvB4516SLoJgSTF4DOASLampO1b5ji7WPSxweur8sUYSz9BNYs6/Exdwdg+54JRWJ8IOo8WZMibXwIDAQAB",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy1YX32z3ByjkzLFg/gfpT+Qrfl0PCkUzUI4NaIOUvno5bnTDrrWAiniZokT7JKFfvB6xzoq2uJ0xWpmr0wdVT1D4N1txCkZ9LKwnGXrwLpJd77+bhRXsGKTHPI4pLTFhcS4xWGD/rV9nRf+8GZfx0numAxFY2+kVKZsWtpdhUSRWL/va6nYf84Q7w8DgRrc6vlvRvefiJaJz7Iu22Vsd5Oa6PuJ1jryLNcvDwm41YeKJLjmMbPfQbEpolCpiQzOUrXobm/ArOHqPJC3IwNqBqkkQqeGtg5S3VEiB+FSvWihJzZKyID4LRnqusiDdwwlpnlsYrqSj2IBvCFz6Ed/j1wIDAQAB",
    "manifest_version": 2,
-   "minimum_chrome_version": "49",
-   "name": "GoFullPage - Full Page Screen Capture",
-   "optional_permissions": [ "downloads", "tabs", "\u003Call_urls>", "webNavigation", "file://*/*" ],
-   "options_page": "options.html",
-   "permissions": [ "activeTab", "storage", "unlimitedStorage" ],
+   "name": "__MSG_appTitle__",
+   "optional_permissions": [ "notifications" ],
+   "permissions": [ "tabs", "storage", "downloads", "\u003Call_urls>" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "7.6",
-   "web_accessible_resources": [ "p/*" ]
+   "version": "1.3.0",
+   "web_accessible_resources": [ "public/*" ]
 }

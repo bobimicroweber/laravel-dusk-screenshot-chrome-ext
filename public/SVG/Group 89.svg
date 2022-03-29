@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102.441" height="46" viewBox="0 0 102.441 46">
+  <g id="Group_89" data-name="Group 89" transform="translate(-4217 64)">
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(4217 -64)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="102.441" height="46" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="101.441" height="45" rx="9.5" fill="none"/>
+    </g>
+    <text id="EDIT" transform="translate(4260 -34)" fill="#464646" font-size="18" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="0" y="0">EDIT</tspan></text>
+    <g id="edit-2" data-name="edit" transform="translate(4236.108 -51.501)">
+      <path id="Path_48" data-name="Path 48" d="M14.646,91.983a.771.771,0,0,0-.771.771v6.167a.772.772,0,0,1-.771.771H2.313a.772.772,0,0,1-.771-.771V88.129a.772.772,0,0,1,.771-.771H8.479a.771.771,0,0,0,0-1.542H2.313A2.315,2.315,0,0,0,0,88.129V98.921a2.315,2.315,0,0,0,2.313,2.313H13.1a2.315,2.315,0,0,0,2.313-2.313V92.754a.77.77,0,0,0-.771-.771Zm0,0" transform="translate(0 -82.232)" fill="#464646"/>
+      <path id="Path_49" data-name="Path 49" d="M182.467,74.361a.39.39,0,0,0-.106.2l-.545,2.726a.385.385,0,0,0,.379.461.367.367,0,0,0,.076-.008L185,77.192a.384.384,0,0,0,.2-.106l6.1-6.1-2.725-2.725Zm0,0" transform="translate(-175.239 -65.313)" fill="#464646"/>
+      <path id="Path_50" data-name="Path 50" d="M395.237,1.065a1.928,1.928,0,0,0-2.725,0l-1.067,1.067,2.725,2.725,1.067-1.067a1.927,1.927,0,0,0,0-2.725Zm0,0" transform="translate(-377.301)" fill="#464646"/>
+    </g>
+  </g>
+</svg>

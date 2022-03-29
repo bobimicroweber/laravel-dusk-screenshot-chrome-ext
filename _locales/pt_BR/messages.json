@@ -1,0 +1,35 @@
+{
+   "appDesc": {
+      "message": "capture a captura de tela e edite a página inteira usando nossa ferramenta de captura de tela"
+   },
+   "appTitle": {
+      "message": "Captura de tela - Captura de página inteira"
+   },
+   "fullButtonTitle": {
+      "message": "Página inteira"
+   },
+   "fullpageDesc": {
+      "message": "Rola automaticamente por toda a página e captura de tela como uma única página (Nota: role até o final e, em seguida, tire a captura de tela)"
+   },
+   "fullpageTitle": {
+      "message": "Captura de tela da página inteira"
+   },
+   "specificAreaDesc": {
+      "message": "Faça uma captura de tela de uma área selecionada da tela visível atual"
+   },
+   "specificAreaTitle": {
+      "message": "Captura de tela de área específica"
+   },
+   "specificButtonTitle": {
+      "message": "Área especifica"
+   },
+   "visibleAreaDesc": {
+      "message": "Captura de tela da parte visível atual da página sozinho."
+   },
+   "visibleAreaTitle": {
+      "message": "Captura de tela da tela visível"
+   },
+   "visibleButtonTitle": {
+      "message": "Área Visível"
+   }
+}
